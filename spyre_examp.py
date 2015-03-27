@@ -7,6 +7,7 @@ import pandas as pd
 import os
 import urllib2
 import datetime
+import spyre
 
 class WheatherApp(server.App):
 
